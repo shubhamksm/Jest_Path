@@ -1,0 +1,22 @@
+{
+  "name": "jest_path",
+  "version": "1.0.0",
+  "description": "Documentation for JestJs Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamksm/Jest_Path.git"
+  },
+  "author": "Shubham Khandelwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamksm/Jest_Path/issues"
+  },
+  "homepage": "https://github.com/shubhamksm/Jest_Path#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
